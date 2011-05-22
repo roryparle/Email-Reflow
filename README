@@ -1,0 +1,3 @@
+This script takes an email on standard input and reflows it so that all lines
+are below a maximum length, while preserving the indentation levels of all
+blocks of text.
